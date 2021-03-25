@@ -1,24 +1,23 @@
 import { createRouter, createWebHistory } from 'vue-router';
 
 const Home = () => import("../views/Home" /* webpackChunkName: "home" */);
-const Game = () => import("../views/Game" /* webpackChunkName: "game" */);
 
 const routes = [
     {
-        path: '/unseen',
+        path: '/',
         name: 'Home',
         component: Home
-    },
+    },/*
     {
-        path: '/unseen/:gameId',
+        path: '/:category',
         name: 'Game',
         component: Game
-    }
+    }*/
 ];
 
 const router = createRouter({
   history: createWebHistory(),
-  base: "unseen",
+  base: "/",
   routes
 });
 

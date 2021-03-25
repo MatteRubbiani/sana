@@ -6,7 +6,7 @@
 
 <script>
 import MenuListComponent from "./MenuListCategory";
-import allCategories from "../constants/allCategories";
+import allCategories from "../../constants/allCategories";
 
 export default {
   name: "MenuListContainer",

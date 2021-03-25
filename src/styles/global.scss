@@ -1,5 +1,6 @@
-$theme-color: #ff6600;
-
+$theme-color-one: #962626;
+$theme-color-two: #bcbbc1;
+$theme-color-three: #ffffff;
 html{
   width: 100%;
   height: 100%;
@@ -9,32 +10,5 @@ body{
   margin: 0;
   width: 100%;
   height: 100%;
+
 }
-
-@keyframes fade-in {
-  0%{
-    opacity: 0;
-  }
-  100%{
-    opacity: 1;
-  }
-}
-
-button {
-  color: white;
-  padding: 2% 3% 2% 3%;
-  background: transparent;
-  border: 2px solid white;
-  transition: all 0.5s;
-
-  &:hover{
-    background-color: white;
-    color: $theme-color;
-  }
-
-  &:focus{
-    outline: none;
-  }
-}
-
-
