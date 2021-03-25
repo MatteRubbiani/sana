@@ -87,7 +87,7 @@ export default {
     height: 90%;
     @media (max-width: 700px) {
       width: 100%;
-      height: 10%;
+      height: 50%;
     }
 
     background-image: url("../../assets/homeImages/1.png");
