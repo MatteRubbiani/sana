@@ -4,7 +4,7 @@ const Home = () => import("../views/Home" /* webpackChunkName: "home" */);
 
 const routes = [
     {
-        path: '/',
+        path: '/sana',
         name: 'Home',
         component: Home
     },/*
