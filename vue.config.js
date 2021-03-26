@@ -1,3 +1,10 @@
 module.exports = {
-    publicPath: "/sana/"
+    publicPath: "/sanag/",
+    css: {
+        loaderOptions: {
+            sass: {
+                additionalData: "@import '@/styles/global.scss';"
+            }
+        }
+    }
 }

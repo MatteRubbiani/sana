@@ -61,7 +61,7 @@ export default {
   border-bottom: 3px solid $theme-color-two;
   display: grid;
   grid-template-columns: 50% 50%;
-  grid-template-rows: 60vh 60vh 60vh;
+  grid-template-rows: 70vh 70vh 70vh;
   @media (max-width: 700px) {
     display: flex;
     flex-flow: column;
@@ -76,9 +76,6 @@ export default {
     @media (max-width: 700px) {
       width: 100%;
       margin: 0;
-      position: sticky;
-      top: 0;
-      left: 0;
     }
   }
 
@@ -110,7 +107,11 @@ export default {
       color: $theme-color-one;
       font-size: 2rem;
       @media (max-width: 700px) {
+        position: sticky;
+        top: 0;
         padding-left: 5%;
+        width: 100%;
+        background-color: white;
       }
     }
     p{

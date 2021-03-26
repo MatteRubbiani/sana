@@ -9,6 +9,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import "styles/global";
+
 @font-face {
   font-family: Staatliches-Regular;
   src: local("IndieFlower-Regular"), url(./fonts/Staatliches-Regular.ttf) format("truetype");
