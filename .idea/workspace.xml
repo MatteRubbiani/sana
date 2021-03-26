@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7fbd737-acc2-485b-9002-98119737f9ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qA8ugowHkJbo82weToZvAisZnp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matte\Desktop\sana_shoes" />
+      <recent name="C:\Users\matte\Desktop\sana_shoes\src\assets" />
+      <recent name="C:\Users\matte\Desktop\sana_shoes\src\assets\homeImages" />
+      <recent name="C:\Users\matte\Desktop\sana_shoes\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matte\Desktop\sana_shoes\src\fonts" />
+      <recent name="C:\Users\matte\Desktop\sana_shoes\src" />
+      <recent name="C:\Users\matte\Desktop\sana_shoes\src\components\HamburgerComponents" />
+      <recent name="C:\Users\matte\Desktop\sana_shoes\src\costants" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7fbd737-acc2-485b-9002-98119737f9ed" name="Default Changelist" comment="" />
+      <created>1616511257620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616511257620</updated>
+      <workItem from="1616511260638" duration="9120000" />
+      <workItem from="1616572825247" duration="7189000" />
+      <workItem from="1616589254802" duration="1518000" />
+      <workItem from="1616599592205" duration="1264000" />
+      <workItem from="1616655249408" duration="23320000" />
+      <workItem from="1616701460599" duration="3214000" />
+      <workItem from="1616747334851" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

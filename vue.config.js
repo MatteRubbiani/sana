@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: "/sanag/",
+    publicPath: "/sana/",
     css: {
         loaderOptions: {
             sass: {
